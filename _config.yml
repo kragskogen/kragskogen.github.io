@@ -4,7 +4,7 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Østre Kragskogen Sameie
+name: Byggsaken
 url: http://kragskogen.github.io
 description: Utbygning mot Holmenkollveien
 twitter: olecr
