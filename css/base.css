@@ -61,6 +61,18 @@ a {
       list-style: none;
       margin-bottom: 7px; }
 
+h1.title {
+  max-width: 650px;
+  margin-left: 110px;
+  margin-right: 20px;
+  margin-bottom: 50px; }
+  h1.title hr {
+    border: 0;
+    height: 6px;
+    width: 50px;
+    border-bottom: 1px solid #ccc;
+    margin: 1em 3em;
+  }
 .content {
   max-width: 650px;
   margin-left: 110px;
