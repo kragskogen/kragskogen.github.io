@@ -8,7 +8,8 @@ Her kan du [sak][sak] og [prinsippene][prinsippene] som utgjør sak G på sameie
 
 ---
 
-Status: Vedtatt med flertall (3 stemmer mot)
+Status: Vedtatt med flertall (3 stemmer mot). [Protokoll fra årsmøtet][protokoll].
 
 [sak]: http://kragskogen.github.io/files/styresak.pdf
 [prinsippene]: http://kragskogen.github.io/files/prinsippene.pdf
+[protokoll]: http://kragskogen.github.io/files/protokoll-2013-04-22.pdf
