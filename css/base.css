@@ -73,6 +73,16 @@ a {
       border-bottom: 1px solid #ccc;
       margin: 1em 3em;
     }
+
+  button.call-to-action {
+    max-width: 650px;
+    margin-left: 140px;
+    margin-right: 20px;
+    margin-bottom: 50px; 
+    font-size: 20px; 
+    color: blue 
+  }
+
 .content {
   max-width: 650px;
   margin-left: 110px;
