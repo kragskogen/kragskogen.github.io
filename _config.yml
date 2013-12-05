@@ -4,7 +4,7 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Byggsaken
+name: Utbygning
 url: http://kragskogen.github.io
 description: Utbygning mot Holmenkollveien
 twitter: olecr
