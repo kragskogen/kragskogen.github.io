@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brev og skjema utbygningssak Holmenkollveien
+title: Brev og skjema utbyggingssak Holmenkollveien
 category: posts
 ---
 
@@ -8,7 +8,7 @@ category: posts
 
 Idag har vi utarbeidet [brev][brev] og [skjema][skjema] for utbyggingssaken av balkongene mot Holmenkollveien.
 
-Vi håper så mange sameiere som mulig fyller ut skjemaet, helst gjennom nettsidene, alternativt kan dere sende/legge skjemaet dere fikk i postkassen til Utbygningssaken, c/o Rynning, Holmenkollveien 74A, 0784. 
+Vi håper så mange sameiere som mulig fyller ut skjemaet, helst gjennom nettsidene, alternativt kan dere sende/legge skjemaet dere fikk i postkassen til Utbyggingssaken, c/o Rynning, Holmenkollveien 74A, 0784. 
 
 ---
 

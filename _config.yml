@@ -4,9 +4,9 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Utbygning
+name: Utbygging
 url: http://kragskogen.github.io
-description: Utbygning mot Holmenkollveien
+description: Utbygging mot Holmenkollveien
 twitter: olecr
 github: oc
 gravatar_url: http://gravatar.com/avatar/5481411a52561dcc2082b37ca788bdb9
