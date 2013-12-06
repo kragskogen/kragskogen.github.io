@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/kragskogen/kragskogen.github.io.png?branch=master)][travis]
+
 ## Installation
 
 - Install Jekyll: `gem install jekyll`
