@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/kragskogen/kragskogen.github.io.png?branch=master)][travis]
+
 ## Installation
 
 - Install Jekyll: `gem install jekyll`
@@ -9,5 +11,6 @@ You should have a server up and running locally at <http://localhost:4000>.
 
 Based on [Left](https://github.com/holman/left/fork).
 
+[travis]: http://travis-ci.org/kragskogen/kragskogen.github.io
 
 
